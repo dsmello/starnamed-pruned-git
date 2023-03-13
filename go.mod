@@ -3,12 +3,11 @@ module github.com/iov-one/starnamed
 go 1.18
 
 require (
-	github.com/CosmWasm/wasmd v0.0.0-00010101000000-000000000000
 	github.com/CosmWasm/wasmvm v1.1.1
 	github.com/cosmos/cosmos-proto v1.0.0-alpha7
 	github.com/cosmos/cosmos-sdk v0.45.9
 	github.com/cosmos/gogoproto v1.4.2
-	github.com/cosmos/iavl v0.19.3
+	github.com/cosmos/iavl v0.19.5
 	github.com/cosmos/ibc-go/v3 v3.3.0
 	github.com/dvsekhvalnov/jose2go v1.5.0
 	github.com/fatih/structs v1.1.0
